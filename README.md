@@ -13,11 +13,7 @@
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/Dhaval2404/ImagePicker.svg?style=social)](https://twitter.com/intent/tweet?text=Check+out+an+ImagePicker+library+to+Pick+an+image+from+the+Gallery+or+Capture+an+image+with+Camera.+https%3A%2F%2Fgithub.com%2FDhaval2404%2FImagePicker+%40dhaval2404+%23Android+%23Kotlin+%23AndroidDev)
 
 <div align="center">
-  <sub># Built with ❤︎ by
-  <a href="https://github.com/Elviana16x"># Elviana</a> and
-  <a href="https://github.com/dhaval2404/imagepicker/graphs/# contributors">
-    contributors
-  </a>
+  # Built with ❤︎ by Elviana and Contributor
 </div>
 <br/>
 
