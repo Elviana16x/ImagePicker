@@ -14,7 +14,7 @@
 
 <div align="center">
   <sub>Built with ❤︎ by
-  <a href="https://twitter.com/Dhaval2404">Dhaval Patel</a> and
+  <a href="https://github.com/Elviana16x">Elviana</a> and
   <a href="https://github.com/dhaval2404/imagepicker/graphs/contributors">
     contributors
   </a>
@@ -25,16 +25,16 @@ Pustaka yang mudah digunakan dan dapat dikonfigurasi untuk Memilih gambar dari G
 
 Hampir 90% dari aplikasi yang saya kembangkan memiliki fitur unggah Gambar. Seiring dengan pemilihan gambar, Terkadang saya membutuhkan fitur crop untuk gambar profil karena saya telah menggunakan uCrop. Sebagian besar waktu saya perlu mengompres gambar karena gambar yang diambil dari kamera lebih dari 5-10 MB dan terkadang kami memiliki persyaratan untuk mengunggah gambar dengan resolusi/ukuran tertentu, dalam hal ini, kompres gambar adalah caranya pilihan. Untuk menyederhanakan opsi pengambilan/pengambilan gambar, saya telah membuat perpustakaan ImagePicker. Saya berharap itu akan berguna untuk semua.
 
-# 🐱‍🏍Features:
+# 🥰 Features:
 	
-* Pick Gallery Image
-* Pick Image from Google Drive
-* Capture Camera Image
-* Crop Image (Crop image based on provided aspect ratio or let user choose one)
-* Compress Image (Compress image based on provided resolution and size)
-* Retrieve Image Result as Uri object (Retrieve as File object feature is removed in v2.0 to support scope storage)
-* Handle runtime permission for camera
-* Does not require storage permission to pick gallery image or capture new image.
+* Pilih Gambar Galeri
+* Pilih Gambar dari Google Drive
+* Tangkap Gambar Kamera
+* Pangkas Gambar (Pangkas gambar berdasarkan rasio aspek yang disediakan atau biarkan pengguna memilih salah satu)
+* Kompres Gambar (Kompres gambar berdasarkan resolusi dan ukuran yang disediakan)
+* Ambil Hasil Gambar sebagai objek Uri (Fitur objek Ambil sebagai File dihapus di v2.0 untuk mendukung penyimpanan ruang lingkup)
+* Menangani izin runtime untuk kamera
+* Tidak memerlukan izin penyimpanan untuk memilih gambar galeri atau mengambil gambar baru.
 
 # 🎬Preview
 
