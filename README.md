@@ -21,9 +21,9 @@
 </div>
 <br/>
 
-Easy to use and configurable library to **Pick an image from the Gallery or Capture image using Camera**. It also allows to **Crop and Compresses the Image based on Aspect Ratio, Resolution and Image Size**.
+Pustaka yang mudah digunakan dan dapat dikonfigurasi untuk Memilih gambar dari Galeri atau Menangkap gambar menggunakan Kamera. Ini juga memungkinkan untuk Memotong dan Mengkompres Gambar berdasarkan Rasio Aspek, Resolusi, dan Ukuran Gambar.
 
-Almost 90% of the app that I have developed has an Image upload feature. Along with the image selection, Sometimes  I needed a crop feature for profile image for that I've used uCrop. Most of the time I need to compress the image as the image captured from the camera is more than 5-10 MBs and sometimes we have a requirement to upload images with specific resolution/size, in that case, image compress is the way to go option. To simplify the image pick/capture option I have created ImagePicker library. I hope it will be useful to all.
+Hampir 90% dari aplikasi yang saya kembangkan memiliki fitur unggah Gambar. Seiring dengan pemilihan gambar, Terkadang saya membutuhkan fitur crop untuk gambar profil karena saya telah menggunakan uCrop. Sebagian besar waktu saya perlu mengompres gambar karena gambar yang diambil dari kamera lebih dari 5-10 MB dan terkadang kami memiliki persyaratan untuk mengunggah gambar dengan resolusi/ukuran tertentu, dalam hal ini, kompres gambar adalah caranya pilihan. Untuk menyederhanakan opsi pengambilan/pengambilan gambar, saya telah membuat perpustakaan ImagePicker. Saya berharap itu akan berguna untuk semua.
 
 # 🐱‍🏍Features:
 	
