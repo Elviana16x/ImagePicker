@@ -102,9 +102,9 @@ Hampir 90% dari aplikasi yang saya kembangkan memiliki fitur unggah Gambar. Seir
     }
     ```
 
-    **Inline method (with registerForActivityResult, Only Works with FragmentActivity and AppCompatActivity)**
+    **Metode sebaris (dengan 'registerForActivityResult' , Hanya Bekerja dengan 'FragmentActivity' dan 'AppCompatActivity')
 
-    i. Add required dependency for registerForActivityResult API
+      saya. Tambahkan ketergantungan yang diperlukan untuk 'registerForActivityResult' API
 
     ```groovy
 	implementation "androidx.activity:activity-ktx:1.2.3"
