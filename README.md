@@ -133,7 +133,7 @@ Hampir 90% dari aplikasi yang saya kembangkan memiliki fitur unggah Gambar. Seir
         }
     ```
 
-    iii. Create ImagePicker instance and launch intent
+    Saya membuat instance ImagePicker dan meluncurkan intent
 
     ```kotlin
     ImagePicker.with(this)
