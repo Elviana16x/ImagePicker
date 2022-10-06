@@ -1,4 +1,4 @@
-# 📸Image Picker Library for Android
+# 📸 Image Picker Library for Android
 
 [![Download](https://jitpack.io/v/Dhaval2404/ImagePicker.svg)](https://jitpack.io/#Dhaval2404/ImagePicker)
 [![Releases](https://img.shields.io/github/release/dhaval2404/imagePicker/all.svg?style=flat-square)](https://github.com/Dhaval2404/ImagePicker/releases)
@@ -102,16 +102,16 @@ Hampir 90% dari aplikasi yang saya kembangkan memiliki fitur unggah Gambar. Seir
     }
     ```
 
-    **Metode sebaris (dengan 'registerForActivityResult' , Hanya Bekerja dengan 'FragmentActivity' dan 'AppCompatActivity')
+    * Metode sebaris (dengan 'registerForActivityResult' , Hanya Bekerja dengan 'FragmentActivity' dan 'AppCompatActivity')
 
-      saya. Tambahkan ketergantungan yang diperlukan untuk 'registerForActivityResult' API
+    * saya Tambahkan ketergantungan yang diperlukan untuk 'registerForActivityResult' API
 
     ```groovy
 	implementation "androidx.activity:activity-ktx:1.2.3"
     implementation "androidx.fragment:fragment-ktx:1.3.3"
     ```
 
-    ii. Declare this method inside fragment or activity class
+    Saya mendeklarasikan metode ini di dalam fragmen atau kelas aktivitas
 
     ```kotlin
     private val startForProfileImageResult =
